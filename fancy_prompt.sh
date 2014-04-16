@@ -32,7 +32,7 @@ fancy_prompt() {
     fi
 
     if [[ $EUID == 0 ]]; then
-        USERHOST="$RED$HOST"
+        USERHOST="$RED\\h"
     else
         USERHOST="$GREEN\\u@$YELLOW$HOST"
     fi
