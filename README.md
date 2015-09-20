@@ -6,7 +6,7 @@ An `/etc/profile.d` file creating a fancy bash prompt.
 Install
 -------
 
-`sudo cp fancy_profile.sh /etc/profile.d`
+`sudo cp fancy_prompt.sh /etc/profile.d`
 
 License
 -------
